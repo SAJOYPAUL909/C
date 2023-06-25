@@ -1,4 +1,4 @@
-//square of user input number
+//write a program for square of user input number
 #include <stdio.h>
 #include <conio.h>
 void main()
