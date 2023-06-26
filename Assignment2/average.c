@@ -13,7 +13,7 @@ void main()
     printf("Enter the third number :");
     scanf("%d",&c);
 
-    average = (a+b+c)/3.0;
+    average = (a+b+c)/3.0 ;
     printf("Average of %d,%d and %d is %f",a,b,c,average);
 
 }
