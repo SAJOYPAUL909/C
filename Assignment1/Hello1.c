@@ -5,5 +5,4 @@
 void main()
 {
     printf("Hello\nStudent");
-
 }
