@@ -1,4 +1,4 @@
-***ASSIGNMENT --1 ***
+*** ASSIGNMENT --1 ***
 Q1. Write a program to print Hello Students on the screen.
 Q2. Write a program to print Hello in the first line and Students in the second line.
 Q3. Write a program to print "Hello Students" on the screen. (Remember to print in double quotes)
