@@ -10,7 +10,7 @@
 6. Write a program to check whether a given number is divisible by 7 or divisible by 3.
 7. Write a program to check whether a given number is positive, negative or zero. 
 8. Write a program to check whether a given character is an alphabet (uppercase),
-   an alphabet (lower case), a digit or a special character.
+   an alphabet (lower case), a digit or a special character. 
 9. Write a program which takes the length of the sides of a triangle as an input.
    Display whether the triangle is valid or not  
 10. Write a program which takes the month number as an input and display number of days in that month.
