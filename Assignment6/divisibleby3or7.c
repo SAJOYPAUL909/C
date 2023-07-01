@@ -12,7 +12,6 @@ void main()
     printf("number is divisible by 3");
     else if (x%7 == 0)
     printf("number is divisible by 7");
-
     else
     printf("number is not divisible by any (3 or 7)");
 
