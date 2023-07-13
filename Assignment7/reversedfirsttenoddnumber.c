@@ -1,11 +1,11 @@
-//write a program to print first 10 odd natural number
+//write a program to print first 10 odd natural number in reversed order.
 #include <stdio.h>
 #include <conio.h>
 void main()
 {
     int i ;
     
-    for (i= 10*2 ;i > 0;i--)
+    for (i= 10*2 ;i >= 0;i--)
     {
         if (i%2 != 0)
         {
