@@ -11,7 +11,7 @@ void main()
 
     for (i = 1; i <= n ; i++)
     {
-        sum = sum + i;
+        sum = sum + i; 
     }
 
     printf("Sum of First %d Natural number is : %d",n,sum);
