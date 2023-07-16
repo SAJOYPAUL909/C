@@ -7,5 +7,5 @@
 6. Write a program to print the first N even natural numbers
 7. Write a program to print the first N even natural numbers in reverse order 
 8. Write a program to print squares of the first N natural numbers
-9. Write a program to print cubes of the first N natural numbers
-10. Write a program to print a table of N
+9. Write a program to print cubes of the first N natural numbers.
+10. Write a program to print a table of N.
