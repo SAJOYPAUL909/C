@@ -1,0 +1,61 @@
+*** ASSIGNMENT --11 : Star Pattern Problems ***
+Write  a program to draw the following patterns:
+
+1.  *      
+    **       
+    ***   
+    ****  
+    ***** 
+
+2.  * 
+    ** 
+    *** 
+    **** 
+    ***** 
+
+3.  *****
+    ****
+    ***
+    **
+    *
+
+4.  *****
+     ****
+      ***
+       **
+        *
+
+5.  1
+    12
+    123
+    1234
+    12345
+
+6.  1
+    21
+    321
+    4321
+    54321
+
+7.  ABCDE
+     ABCD
+      ABC
+       AB
+        A
+
+8.  1
+    2 3
+    4 5 6 
+    7 8 9 10
+
+9.  ABCDE
+     BCDE
+      CDE
+       DE
+        E
+
+10. * * * * *
+    *       *
+    *       *
+    *       *
+    * * * * *
