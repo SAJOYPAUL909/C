@@ -9,7 +9,7 @@
 void main()
 
 {
-    int i,j,k,l,m;
+    int i,j;
     int n;
 
     printf("Enter the no.s of Line for Pattern 8 :  ");
