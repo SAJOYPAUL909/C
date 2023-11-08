@@ -5,7 +5,7 @@
 void main()
 {
     int n;
-    printf("Enter the no. of month : ");
+    printf("Enter the no. of the month : ");
     scanf("%d",&n);
     
     switch (n)
