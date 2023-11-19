@@ -12,6 +12,7 @@ void main()
 
     switch (n)
     {
+        
     case 'A':
     case 'a':
     case 'E':
